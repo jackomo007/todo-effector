@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "text": "Read effector documentation",
+        "done": false
+    },
+    {
+        "id": 2,
+        "text": "Implementing ToDo",
+        "done": false
+    },
+    {
+        "id": 3,
+        "text": "Deploy to vercel",
+        "done": false
+    }
+]
